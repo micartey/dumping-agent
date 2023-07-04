@@ -35,3 +35,13 @@
 ### Motivation
 
 The inception of this project lies in the research requirements of [jCloak](https://micartey.github.io/jCloak/). It was created to facilitate the development and testing of Java agent detection mechanisms, with the ultimate goal of safeguarding classes from Java agents.
+
+## 🎈 Getting started
+
+There are usually two ways to start use a java agent.
+
+1. Start the JVM with the `-javaagent` flag and specify the java agent
+2. Attach the java agent dynamically at runtime
+   
+For the first method you don't need anything except that flag.
+For the second method, please take a look at [this project](https://github.com/micartey/Injection-Base)
