@@ -14,12 +14,6 @@
       height="30"
     />
   </a>
-  <a href="https://micartey.github.io/jairo/docs" target="_blank">
-    <img
-      src="https://img.shields.io/badge/javadoc-reference-5272B4.svg?style=for-the-badge"
-      height="30"
-    />
-  </a>
 </div>
 
 <br>
